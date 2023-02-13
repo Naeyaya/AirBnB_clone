@@ -170,4 +170,4 @@ The recognizable commands by the interpreter are the following:
 ## Authors
 
 Natnael Eyaya| Github: [Naeyaya] (mailto:natnaeleyaya@gmail.com)
-Qudus Jimoh| Github: [Abd-al-qudus](mailto:engineerphoenix1@gmail.com)
+Qudus Jimoh| Github: [Abd-al-qudus] (mailto:engineerphoenix1@gmail.com)
